@@ -1,2 +1,2 @@
 # Digit-based neural network recognition
-Digit recognition using the mnist library
+Распознавание изображений с цифрами с помощью библиотеки и базы данных  mnist
